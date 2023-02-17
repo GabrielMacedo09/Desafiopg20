@@ -1,1 +1,10 @@
-
+html {
+    color: aliceblue;
+    background:(C:\Users\ALUNOS\Downloads.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    background-position-x: center;
+    font-style: bold;
+    background-size: cover;
+}
