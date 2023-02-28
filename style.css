@@ -1,6 +1,6 @@
 html {
-    color: rgb(1, 29, 54);
-    background:(C:\Users\ALUNOS\Downloads.png);
+    color: rgb(255, 255, 255);
+    background: url(file:///C:/Users/ALUNOS/Downloads/fundo.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position-y: 10%;
@@ -9,7 +9,20 @@ html {
     background-size: cover;
 }
 
-title. {
-    top: 300;
-    left: 250;
+.title {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Resumo {
+    font-size: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+
+.Desafios {
+    font-family: 'Courier New', Courier, monospace;
 }
