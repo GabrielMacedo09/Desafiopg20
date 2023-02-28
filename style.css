@@ -1,5 +1,5 @@
 html {
-    color: aliceblue;
+    color: rgb(1, 29, 54);
     background:(C:\Users\ALUNOS\Downloads.png);
     background-size: 80%;
     background-repeat: no-repeat;
@@ -7,4 +7,9 @@ html {
     background-position-x: center;
     font-style: bold;
     background-size: cover;
+}
+
+title. {
+    top: 300;
+    left: 250;
 }
